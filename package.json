@@ -1,0 +1,12 @@
+{
+  "name": "nameplaceholder",
+  "version": "0.0.1",
+  "description": "TypeScript Template Project for Averism",
+  "scripts": {
+  },
+  "author": "Averman",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "tsemplate": "github:averism/tsemplate#module/v3"
+  }
+}
